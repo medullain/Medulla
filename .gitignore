@@ -1,0 +1,15 @@
+# Keep these files out of the repo
+*.log
+
+.htaccess
+sitemap.xml
+favicon.ico
+Icon
+robots.txt
+
+_assets/
+images/
+type/
+
+# Hidden files
+*.DS_Store
